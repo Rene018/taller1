@@ -1,0 +1,35 @@
+1.Desarrolle un algoritmo que permita leer 3 números enteros. El algoritmo debe imprimir cual es el numero mayor y cual es el numero menor entre los 3.
+Ademas ninguno de los 3 numeros ingresados pueden ser iguales. En caso de que el usuario ingrese 2 numeros iguales debe mostrar una alerta.
+
+2.Desarrolle un algoritmo que reciba la base y altura de un triangulo en cm. Los 2 valores ingresados no pueden ser iguales, ademas el algoritmo
+ debe calcular el area del triangulo si la base es mayor a 5cm y la altura es mayor a 4cm, si no lo son el algoritmo debe imprimir el valor de la
+ base multiplicado por 2 y sumarle 10.
+
+3.Desarrolle un algortimo que reciba un numero entero y escriba si dicho numero es par o impar.
+
+5.Desarrolle un algoritmo que permit convertir calificaciones numericas, segun la siguiente tabla:
+	A = 19 y 20.
+	B = 16, 17 y 18.
+	C = 13, 14 y 15. 
+	D = 10, 11 y 12.
+	E = 1 hasta 9.
+
+Las notas solo pueden ser numeros entre 1 y 20.
+
+6.Pedir dos números y decir si non múltiplos o no.
+
+7.Pedir un número y decir si es un número negativo, si es positivo o cero.
+
+8.Pedir tres números enteros con un valor del 1 al 10, sacar el promedio de los tres números y mostrar true si el promedio es mayor a 5 
+caso contrario mostrar false, utilizar el operador ternario.
+
+9.Desarrolle un algoritma que reciba un numero entero e imprima si el numero es par o impar. Ademas el numero debe ser positivo.
+
+10.Crea un algoritmo que pida al usuario el diámetro de una rueda y su grosor (en metros) y realice las siguientes operaciones:
+	
+	A. Si el diámetro es superior a 1.4 debe mostrarse el mensaje “La rueda es para un vehículo grande”. Si es menor o igual a 1.4 pero
+	   mayor que 0.8 debe mostrarse el mensaje “La rueda es para un vehículo mediano”. Si no se cumplen ninguna de las condiciones 
+	   anteriores debe mostrarse por pantalla el mensaje “La rueda es para un vehículo pequeño”.
+	
+	B. Si el diámetro es superior a 1.4 con un grosor inferior a 0.4, ó si el diámetro es menor o igual a 1.4 pero mayor que 0.8, con un grosor 
+	   inferior a 0.25, deberá mostrarse el mensaje “El grosor para esta rueda es inferior al recomendado”
